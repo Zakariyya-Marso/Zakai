@@ -1,0 +1,7 @@
+{
+  "name": "Zak AI",
+  "description": "A high-performance AI assistant with zero filters and a rude attitude, but unmatched intelligence.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
